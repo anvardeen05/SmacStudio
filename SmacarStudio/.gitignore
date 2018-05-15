@@ -1,0 +1,7 @@
+/target/
+
+*.jpg
+*.png
+/reports/
+/.settings/
+/test-output/
